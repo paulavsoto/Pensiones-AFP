@@ -1,0 +1,5 @@
+venv_afp/
+venv/
+__pycache__/
+.vscode/
+.env
